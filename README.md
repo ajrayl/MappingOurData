@@ -1,11 +1,11 @@
 # MappingOurData
 
 
-#Coding Standerds
+# Coding Standerds
 
 
 
-#Data Structures to Work On
+# Data Structures to Work On
 
 Array 1/29/22
 Dynamic/Statick 1/29/22
